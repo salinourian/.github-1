@@ -1,15 +1,21 @@
 ### Hi there, this is n8n 👋
 
-- Check out our main project: <a href="https://github.com/n8n-io/n8n">Click Here</a>
-- Help us improve our product and join our team: <a href="https://n8n.io/careers">n8n open positions</a>
-- Join our upcoming webinar on <a href="https://n8n.io/webinar-node-building/">building community nodes</a>
+n8n is a low-code automation tool, and with over 220 pre-built integrations and a general connector for anything with an API, n8n enables you to connect anything to everything. With n8n you can move beyond simple one step integrations to build multi-step workflows that integrate your tools exactly the way you want. Thanks to its <a href="https://faircode.io/">fair-code</a> distribution model, n8n will always have visible source code, be available to self-host, is free to use and allows you to add your own custom functions, logic, and apps.
 
-![Image](https://blog.n8n.io/content/images/size/w1600/2021/11/data_pipeline_cover.svg "Optional title")
+- Check out <a href="https://github.com/n8n-io/n8n">our main project here.</a>
+- Interested in working for n8n? See our<a href="https://n8n.io/careers"> open positions</a>.
+- Learn more how to <a href="https://docs.n8n.io/hosting/">self-host n8n in our docs</a>. 
+- Want to quickly test out n8n? <a href="https://n8n.io/get-started/?utm_medium=referral&utm_source=github.com&utm_campaign=readme">Download our desktop app</a> to see what the fuss is all about. 
+- Not interested in hosting n8n yourself? We also offer <a href="https://n8n.io/cloud/?utm_medium=referral&utm_source=github.com&utm_campaign=readme">n8n cloud</a> for a monthly fee. 
+- Both our team and our users have been building a <a href="https://n8n.io/workflows/?utm_medium=referral&utm_source=github.com&utm_campaign=readme">workflow template library</a> to help others easily get started with n8n automations. 
 
-n8n is a low-code workflow automation tool that allows you to connect different services together with custom logic (think syncing your CRM with an internal database or allowing companies to easily build Slack bots for their products). We launched 1.5 years ago to a ton of interest, and things have accelerated since then:
+
+![Image](https://n8niostorageaccount.blob.core.windows.net/n8nio-strapi-blobs-prod/assets/github_screen_2_86155234c3.png "Stripe to Hubspot to Slack")
+
+ We launched in 2019 with a ton of interest, and things have accelerated since then:
 
 - 📈 With 75m Docker pulls and a huge active user base/community - we're already building global traction
 - ⭐️ With 23k stars, we are now in the top 500 of the 238m projects on GitHub
 - 🌱 We were Sequoia's first seed investment in Germany, and recently raised a $12m Series A round, led by Felicis Ventures
 
-We're on a mission to give technical superpowers to everyone with a computer. check out our open positions here: https://n8n.io/careers
+We're on a mission to give technical superpowers to everyone with a computer. <a href="https://n8n.io/careers">Join us!</a>
