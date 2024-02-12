@@ -1,6 +1,6 @@
 ### Hi there, this is n8n 👋
 
-n8n is a low-code automation tool, and with over 220 pre-built integrations and a general connector for anything with an API, n8n enables you to connect anything to everything. With n8n you can move beyond simple one step integrations to build multi-step workflows that integrate your tools exactly the way you want. Thanks to its <a href="https://faircode.io/">fair-code</a> distribution model, n8n will always have visible source code, be available to self-host, is free to use and allows you to add your own custom functions, logic, and apps.
+n8n is a low-code automation tool. With over 220 pre-built integrations and a general connector for anything with an API, n8n enables you to connect anything to everything. With n8n you can move beyond simple one step integrations to build multi-step workflows that integrate your tools exactly the way you want, including adding AI functionality. Thanks to its <a href="https://faircode.io/">fair-code</a> distribution model, n8n will always have visible source code, be available to self-host, have a free community edition, and allow you to add your own custom functions, logic, and apps.
 
 - Check out <a href="https://github.com/n8n-io/n8n">our main project here.</a>
 - Interested in working for n8n? See our<a href="https://n8n.io/careers"> open positions</a>.
@@ -14,8 +14,8 @@ n8n is a low-code automation tool, and with over 220 pre-built integrations and 
 
  We launched in 2019 with a ton of interest, and things have accelerated since then:
 
-- 📈 With 75m Docker pulls and a huge active user base/community - we're already building global traction
-- ⭐️ With 24k stars, we are now in the top 600 of the 238m projects on GitHub
+- 📈 With 100m+ Docker pulls and a huge active user base/community - we're already building global traction
+- ⭐️ With 37k stars, we are now in the top 600 of the 238m projects on GitHub
 - 🌱 We were Sequoia's first seed investment in Germany, and recently raised a $12m Series A round, led by Felicis Ventures
 
 We're on a mission to give technical superpowers to everyone with a computer. <a href="https://n8n.io/careers">Join us!</a>
