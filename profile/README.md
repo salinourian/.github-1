@@ -10,8 +10,6 @@ n8n is a low-code automation tool. With over 220 pre-built integrations and a ge
 - Both our team and our users have been building a <a href="https://n8n.io/workflows/?utm_medium=referral&utm_source=github.com&utm_campaign=readme">workflow template library</a> to help others easily get started with n8n automations. 
 
 
-![Image](https://n8niostorageaccount.blob.core.windows.net/n8nio-strapi-blobs-prod/assets/github_screen_2_86155234c3.png "Stripe to Hubspot to Slack")
-
  We launched in 2019 with a ton of interest, and things have accelerated since then:
 
 - 📈 With 100m+ Docker pulls and a huge active user base/community - we're already building global traction
